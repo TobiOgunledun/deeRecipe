@@ -39,7 +39,7 @@
 
 ![screenshot](https://github.com/TobiOgunledun/devChallenge/blob/main/deeRecipe/screenshot.png)
 
-This is the second challenge from <a href="https://devchallenges.io">developers.io</a>. I was able to learn a specific thing in CSS while attempting this project in the aspect of styling numbers in ordered list using "counter-reset" and psuedo element.
+This is the fourth challenge from <a href="https://devchallenges.io">developers.io</a>. I was able to learn a specific thing in CSS while attempting this project in the aspect of styling numbers in ordered list using "counter-reset" and psuedo element.
 
 'Stay Positive'
 
